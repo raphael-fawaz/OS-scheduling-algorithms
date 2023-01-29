@@ -1,4 +1,5 @@
 # OS-scheduling-algorithms
+This project was the 4th lab in the operating system course
 C++ program to analyze, and visualize the following CPU Scheduling 
 algorithms.
 1. FCFS (First Come First Serve)
@@ -10,3 +11,9 @@ algorithms.
 7. FB-2i, (Feedback where q= 2i
 )
 8. Aging
+
+## Content:
+- readme
+- lab manuel
+- makefile
+- cpp program
